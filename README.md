@@ -1,1 +1,1 @@
-# Relational_DB_Development_and_Design_using_MS_SQL_Server
+# Relational Database Development & Design using MS SQL Server
