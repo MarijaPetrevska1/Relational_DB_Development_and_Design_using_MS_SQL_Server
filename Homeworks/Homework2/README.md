@@ -1,1 +1,1 @@
-Workshop (Aggregate Functions, Grouping and Views)
+Workshops (Aggregate Functions, Grouping and Views) - SEDC
