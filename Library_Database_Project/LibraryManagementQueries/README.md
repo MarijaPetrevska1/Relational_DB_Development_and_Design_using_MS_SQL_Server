@@ -32,7 +32,7 @@ This project helps with:
 - Studying database design principles
 - Strengthening MS SQL Server and MySQL skills
 
-  This is a learning project, but suggestions or improvements are always welcome.
+*This is a learning project, but suggestions or improvements are always welcome.*
   
 🎯 What I Learned in This Project
 - Creating a Library Database from scratch
@@ -45,4 +45,5 @@ Understanding how to structure data properly using keys, constraints, and normal
 Using primary keys and foreign keys to connect tables and maintain data integrity.
 - Running complex SQL queries
 Using joins, subqueries, aggregate functions, date calculations, and filtering to get meaningful insights from the data.
+
 
