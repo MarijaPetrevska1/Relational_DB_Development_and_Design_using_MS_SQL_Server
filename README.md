@@ -17,7 +17,7 @@ This repository contains exercises, examples, and practice scripts related to SQ
 - Library Management System (Full Database Project) ✔️
 
 ## 🧩 Projects Included
-# 1️⃣ Pizza Database Project
+### 1️⃣ Pizza Database Project
 A complete hands-on workshop focused on designing and querying a relational database for a pizza shop.
 Key concepts practiced:
 - Tables & relationships
@@ -27,7 +27,7 @@ Key concepts practiced:
 - Real-world querying scenarios
 - Aggregations & reporting queries
 
-# 2️⃣ Library Management System
+### 2️⃣ Library Management System
 A full MS SQL Server project built from scratch, including complete schema design and advanced querying.
 
 Highlights:
