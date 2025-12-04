@@ -20,6 +20,7 @@ The project includes:
 ✅ SQL Queries
 
 The repository contains SQL tasks such as:
+
 Simple SELECT queries; Filtering (WHERE); Sorting (ORDER BY); Joins (INNER JOIN, LEFT JOIN); Aggregation (COUNT, MAX, GROUP BY); Subqueries; Intermediate & advanced SQL challenges; Identifying overdue books; Finding most borrowed books; Working with date functions
 And more…
 
@@ -45,5 +46,6 @@ Understanding how to structure data properly using keys, constraints, and normal
 Using primary keys and foreign keys to connect tables and maintain data integrity.
 - Running complex SQL queries
 Using joins, subqueries, aggregate functions, date calculations, and filtering to get meaningful insights from the data.
+
 
 
