@@ -1,7 +1,7 @@
 ## 📚 Relational Database Development & Design using MS SQL Server
 This repository contains exercises, examples, and practice scripts related to SQL Server and relational database development.
 
-📌 Topics Covered
+📌 *Topics Covered*
 
 - Introduction to Databases
 - Constraints (NOT NULL, UNIQUE, CHECK, DEFAULT)
@@ -16,6 +16,8 @@ This repository contains exercises, examples, and practice scripts related to SQ
 - 💾 Backup & Restore
 - Workshop: Pizza Database Project ✔️
 - Library Management System (Full Database Project) ✔️
+- E-Commerce Database Project ️️✔️
+- Hospital Information Management System ✔️
 
 ## 🧩 Projects Included
 ### 1️⃣ Pizza Database Project
