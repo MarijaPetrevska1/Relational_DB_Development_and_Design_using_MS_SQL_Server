@@ -38,3 +38,21 @@ Highlights:
 - Intermediate & advanced SQL queries (Overdue books, Most borrowed books, Active borrowers, Author-based filtering) 
 - Practical real-world system behavior
 
+### 3️⃣ E-Commerce Database Project
+A relational database simulating an online store environment.  
+Highlights:
+- Tables for Customers, Products, Categories, Orders, OrderItems
+- Enforcing data integrity with constraints (`PRIMARY KEY`, `FOREIGN KEY`, `CHECK`, `UNIQUE`, `DEFAULT`)
+- Realistic querying scenarios: top-selling products, customer purchase history
+- Use of functions, stored procedures, and joins
+- Backup & restore practice
+
+### 4️⃣ Hospital Information Management System
+A complete database for managing hospital operations.  
+Highlights:
+- Tables for Patients, Doctors, Appointments, Departments, Treatments
+- Relationships between patients, doctors, and appointments
+- Constraints to maintain data integrity
+- Advanced queries for reporting (upcoming appointments, patient history, doctor workload)
+- Stored procedures and functions for routine operations
+- Real-world hospital database simulation
