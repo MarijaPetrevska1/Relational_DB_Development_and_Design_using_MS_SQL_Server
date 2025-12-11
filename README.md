@@ -13,6 +13,7 @@ This repository contains exercises, examples, and practice scripts related to SQ
 - T-SQL Querying
 - Stored Procedures
 - Error Handling & Administration
+- 💾 Backup & Restore
 - Workshop: Pizza Database Project ✔️
 - Library Management System (Full Database Project) ✔️
 
