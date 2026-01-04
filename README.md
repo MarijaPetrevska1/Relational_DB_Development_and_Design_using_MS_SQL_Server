@@ -1,4 +1,4 @@
-## 📚 Relational Database Development & Design using MS SQL Server
+## 📚 Relational Database Development & Design using MS SQL Server  
 This repository contains exercises, examples, and practice scripts related to SQL Server and relational database development.
 
 📌 *Topics Covered*
