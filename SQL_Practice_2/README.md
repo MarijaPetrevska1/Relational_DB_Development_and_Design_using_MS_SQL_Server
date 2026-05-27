@@ -64,7 +64,9 @@ ON p.product_id = s.product_id
 
 WHERE s.product_id IS NULL;
 
-## 7. Subqueries ===> Used when comparing with aggregated values. Used with: AVG, MAX, MIN, SUM.
+## 7. Subqueries ===> Used when comparing with aggregated values. 
+
+Used with: AVG, MAX, MIN, SUM.
 
 WHERE quantity_sold >
 
